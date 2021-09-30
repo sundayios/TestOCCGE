@@ -1,0 +1,22 @@
+PODS:
+  - cge (2.5.1)
+
+DEPENDENCIES:
+  - cge (from `https://github.com/wysaid/ios-gpuimage-plus-pod.git`, tag `2.5.1`)
+
+EXTERNAL SOURCES:
+  cge:
+    :git: https://github.com/wysaid/ios-gpuimage-plus-pod.git
+    :tag: 2.5.1
+
+CHECKOUT OPTIONS:
+  cge:
+    :git: https://github.com/wysaid/ios-gpuimage-plus-pod.git
+    :tag: 2.5.1
+
+SPEC CHECKSUMS:
+  cge: 481cf19d5291983c3837bf0a25830ebbd6bc02ff
+
+PODFILE CHECKSUM: 79f6841bc5f2695144a2a50d524cd9ae81331721
+
+COCOAPODS: 1.11.0
